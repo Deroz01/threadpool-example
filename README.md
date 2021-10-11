@@ -1,2 +1,2 @@
 # threadpool-example
-This is the threadpool example from Workshop 4.
+This is the threadpool example from ECM2414 Workshop 4.
